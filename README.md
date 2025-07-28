@@ -23,11 +23,9 @@ Focus Areas: Linux administration, cloud infrastructure, and network security
 
 ## Featured Projects
 
-[sql-security-filters](https://github.com/Keneni-Tech/sql-security-filters)
-> This project provides a simple Python tool for analyzing login attempts and related security log data using SQLite and plain SQL files. It helps cybersecurity students, SOC analysts, and incident responders quickly filter and inspect activity
+[sql-security-filters](https://github.com/Keneni-Tech/sql-security-filters) > This project provides a simple Python tool for analyzing login attempts and related security log data using SQLite and plain SQL files. It helps cybersecurity students, SOC analysts, and incident responders quickly filter and inspect activity
 
-[log-analyzer](https://github.com/Keneni-Tech/log-analyzer)   
-> Log Analyzer is a modular Python-based tool for parsing and analyzing logs from various systems (e.g., Linux, Windows, Apache, NGINX). It automatically detects the format of a given log file and generates structured reports in CSV and JSON formats
+[log-analyzer](https://github.com/Keneni-Tech/log-analyzer) > Log Analyzer is a modular Python-based tool for parsing and analyzing logs from various systems (e.g., Linux, Windows, Apache, NGINX). It automatically detects the format of a given log file and generates structured reports in CSV and JSON formats
 
 ## Current Goals
 - Earn the Red Hat Certified System Administrator (RHCSA)  
