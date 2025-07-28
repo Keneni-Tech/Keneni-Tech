@@ -1,6 +1,6 @@
-## Hi There!
+>Hi There!
 
-## I'm Dereje Keneni
+>I'm Dereje Keneni
 Pursuing a Bachelor’s degree in Cybersecurity Technology at UMGC.  
 Learning and building skills in Linux system administration, cloud computing (Azure), and cybersecurity practices.  
 Open to collaborating on beginner-friendly open-source projects or labs related to system administration, scripting, and cloud technologies.  
@@ -23,9 +23,11 @@ Focus Areas: Linux administration, cloud infrastructure, and network security
 
 ## Featured Projects
 
-[sql-security-filters](https://github.com/Keneni-Tech/sql-security-filters) > This project provides a simple Python tool for analyzing login attempts and related security log data using SQLite and plain SQL files. It helps cybersecurity students, SOC analysts, and incident responders quickly filter and inspect activity
+[sql-security-filters](https://github.com/Keneni-Tech/sql-security-filters)
+> This project provides a simple Python tool for analyzing login attempts and related security log data using SQLite and plain SQL files. It helps cybersecurity students, SOC analysts, and incident responders quickly filter and inspect activity
 
-[log-analyzer](https://github.com/Keneni-Tech/log-analyzer) > Log Analyzer is a modular Python-based tool for parsing and analyzing logs from various systems (e.g., Linux, Windows, Apache, NGINX). It automatically detects the format of a given log file and generates structured reports in CSV and JSON formats
+[log-analyzer](https://github.com/Keneni-Tech/log-analyzer)
+> Log Analyzer is a modular Python-based tool for parsing and analyzing logs from various systems (e.g., Linux, Windows, Apache, NGINX). It automatically detects the format of a given log file and generates structured reports in CSV and JSON formats
 
 ## Current Goals
 - Earn the Red Hat Certified System Administrator (RHCSA)  
