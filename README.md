@@ -23,16 +23,10 @@ Focus Areas: Linux administration, cloud infrastructure, and network security
 
 ## Featured Projects
 
-##[sql-security-filters](https://github.com/Keneni-Tech/sql-security-filters)
-> This project provides a simple Python tool for analyzing login attempts and related security log data using SQLite and plain SQL files. It helps cybersecurity students, SOC analysts, and incident responders quickly filter and inspect activity such as:
+[sql-security-filters](https://github.com/Keneni-Tech/sql-security-filters)
+> This project provides a simple Python tool for analyzing login attempts and related security log data using SQLite and plain SQL files. It helps cybersecurity students, SOC analysts, and incident responders quickly filter and inspect activity
 
-- Unauthorized or failed login attempts
-- Logins on specific dates or during certain hours
-- Activity by country, office, or department
-
-By combining Python and SQL, it enables rapid, scriptable, and repeatable filtering of log data — useful for building automation skills and incident investigation playbooks
-
-##[log-analyzer](https://github.com/Keneni-Tech/log-analyzer)   
+[log-analyzer](https://github.com/Keneni-Tech/log-analyzer)   
 > Log Analyzer is a modular Python-based tool for parsing and analyzing logs from various systems (e.g., Linux, Windows, Apache, NGINX). It automatically detects the format of a given log file and generates structured reports in CSV and JSON formats
 
 ## Current Goals
