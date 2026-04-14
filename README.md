@@ -1,40 +1,105 @@
->Hi There!
+<h1 align="center">Dereje Keneni</h1>
+<p align="center">
+Cybersecurity | Linux Administration | Cloud & Automation
+</p>
 
->I'm Dereje Keneni
-Pursuing a Bachelor’s degree in Cybersecurity Technology at UMGC.  
-Learning and building skills in Linux system administration, cloud computing (Azure), and cybersecurity practices.  
-Open to collaborating on beginner-friendly open-source projects or labs related to system administration, scripting, and cloud technologies.  
-Actively seeking job opportunities and professional guidance in IT and cybersecurity.  
-Topics of interest include RHEL, system administration, databases, and Cisco routing and switching.  
-Contact: keneni2022@gmail.com  
-Hobbies include walking, reading books, and watching movies.
+<p align="center">
+<a href="https://github.com/Keneni-Tech">GitHub</a> •
+<a href="mailto:keneni2022@gmail.com">Email</a>
+</p>
 
->About Me
-Location: Falls Church, VA  
-Certifications: Security+ | Google Cybersecurity Certificate | RHCSA (in progress)  
-Focus Areas: Linux administration, cloud infrastructure, and network security
+---
 
->Skills Snapshot
->- Operating Systems: RHEL 9, kali linux,Ubuntu, Windows Server  
->- Cloud & Virtualization: Microsoft Azure, VirtualBox, VMware  
->- Languages & Tools: Bash, Python, Git, Ansible and Django
->- Cybersecurity Tools: Nmap, John the Ripper, Wireshark, Splunk
->- Networking: Cisco Packet Tracer, VLANs, NAT, OSPF, ACLs  
+I am a cybersecurity-focused IT professional building hands-on experience in security operations, system administration, and cloud environments. My work focuses on practical implementation of log analysis, vulnerability assessment, automation, and secure system configuration.
 
->Featured Projects
+I am actively seeking entry-level opportunities in cybersecurity, SOC analysis, or system administration where I can contribute and continue developing real-world security skills
 
-[SQL Security Filters](https://github.com/Keneni-Tech/sql-security-filters)
-> This project provides a simple Python tool for analyzing login attempts and related security log data using SQLite and plain SQL files. It helps cybersecurity students, SOC analysts, and incident responders quickly filter and inspect activity
+---
 
-[Log Analyzer](https://github.com/Keneni-Tech/log-analyzer)
-> Log Analyzer is a modular Python-based tool for parsing and analyzing logs from various systems (e.g., Linux, Windows, Apache, NGINX). It automatically detects the format of a given log file and generates structured reports in CSV and JSON formats
+## Core Skills
 
->Current Goals
->- Earn the Red Hat Certified System Administrator (RHCSA)  
->- Expand automation skills using Ansible, Terraform, and Bash  
->- Build and document a home lab environment with Linux, containers, and cloud integration
+- Linux System Administration (RHEL, Ubuntu)
+- Security Monitoring and Log Analysis (SIEM concepts, Splunk)
+- Vulnerability Scanning and Network Analysis
+- Python and Bash Automation
+- Cloud Fundamentals (Microsoft Azure)
+- Networking (VLANs, NAT, OSPF, ACLs)
 
->Let's Connect
-Email: keneni2022@gmail.com
- 
->Always learning, always building. Let’s secure the future together
+---
+
+## Technical Stack
+
+Operating Systems: RHEL 9, Kali Linux, Ubuntu, Windows Server  
+Cloud & Virtualization: Microsoft Azure, VMware, VirtualBox  
+Languages: Python, Bash, SQL  
+Tools: Splunk, Wireshark, Nmap, John the Ripper, Git, Ansible  
+Networking: Cisco Packet Tracer, Routing & Switching  
+
+---
+
+## Featured Projects
+
+### Log Analyzer  
+https://github.com/Keneni-Tech/log-analyzer  
+
+A modular Python-based log analysis tool designed to simulate SOC workflows by parsing logs from Linux, Windows, and web servers
+
+- Automatically detects log formats  
+- Outputs structured data in JSON and CSV  
+- Supports security monitoring and anomaly detection use cases  
+
+---
+
+### SQL Security Filters  
+https://github.com/Keneni-Tech/sql-security-filters  
+
+A lightweight security analysis tool that uses SQL queries to inspect authentication logs and detect suspicious activity patterns
+
+- Built with Python and SQLite  
+- Focused on login attempt analysis  
+- Supports basic incident investigation workflows  
+
+---
+
+### SIEM Log Detection Lab  
+Coming soon  
+
+A simulated SOC environment using Splunk to detect suspicious behavior such as brute force attempts and unusual login patterns
+
+---
+
+## Current Work
+
+- Building a cybersecurity home lab with Linux, logging, and monitoring tools  
+- Practicing system hardening and access control implementation  
+- Developing automation scripts for security and system administration tasks  
+
+---
+
+## Certifications
+
+- Google Cybersecurity Professional Certificate  
+- Google IT Automation with Python  
+- CompTIA Security+ (in progress)  
+- RHCSA (in progress)  
+
+---
+
+## Goals
+
+- Transition into a SOC Analyst or Cybersecurity Analyst role  
+- Gain hands-on experience with real-world security monitoring tools  
+- Contribute to open-source or security-focused projects  
+- Continue building practical, job-ready cybersecurity skills  
+
+---
+
+## Contact
+
+Email: keneni2022@gmail.com  
+
+---
+
+<p align="center">
+Always learning. Always building. Focused on security and growth
+</p>
